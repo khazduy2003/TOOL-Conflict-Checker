@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c45eb209-d63f-4081-bfb0-a91335876115" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../IT Skills/MyFirstWebsite/node_modules/encoding/node_modules/iconv-lite/.idea/iconv-lite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/28c8a68f3ce60caf01d439232c8d0561_1294608336052774174.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson1/Lesson1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson2/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson2/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson2/Lesson2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson2/src/main/kotlin/Hello.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson3/.idea/Lesson3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson3/Bài thực hành 3.1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson3/Bài thực hành 3.2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson3/Hello World - Android Studio.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson3/Lesson3/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson3/Lesson3/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson3/Lesson3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson3/Lesson3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson3/Lesson3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson3/OOP_Kotlin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson3/OOP_Kotlin/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson3/OOP_Kotlin/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson3/OOP_Kotlin/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson3/OOP_Kotlin/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson3/OOP_Kotlin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson3/OOP_Kotlin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson3/OOP_Kotlin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/Lesson3/OOP_Kotlin/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/unitled/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/unitled/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/unitled/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Mobile Programming/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Network Programming Lab/Week 2/echoClient.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/Network Programming Lab/Week 2/echoServer.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/javaswing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/javaswing/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/javaswing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/javaswing/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/javaswing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/javaswing/javaswing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Semester 2024.1/javaswing/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/src/FileReaderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2mTjYPS5nUfi7cbWuVkubudI43Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW": "false",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Admin/Desktop/COI/COI_Implement",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="COI_Implement" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RoleBasedAccessControl">
+    <configuration name="ConflictChecker" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="COI_Implement.ConflictChecker" />
+      <module name="COI_Implement" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\Admin\Desktop\COI\module-info.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoleBasedAccessControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="COI_Implement.RoleBasedAccessControl" />
+      <module name="COI_Implement" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\Admin\Desktop\COI\module-info.java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="COI_Implement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="COI_Implement.SwingApp" />
+      <module name="COI_Implement" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\Admin\Desktop\COI\module-info.java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="COI_Implement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="COI_Implement.ConflictChecker" />
+      <module name="COI_Implement" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\Admin\Desktop\COI\module-info.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RoleBasedAccessControl" />
+        <item itemvalue="Application.SwingApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c45eb209-d63f-4081-bfb0-a91335876115" name="Changes" comment="" />
+      <created>1727107506702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727107506702</updated>
+      <workItem from="1727107507833" duration="1248000" />
+      <workItem from="1727109901691" duration="3503000" />
+      <workItem from="1727146421014" duration="4962000" />
+      <workItem from="1727321288443" duration="14366000" />
+      <workItem from="1727405325010" duration="1989000" />
+      <workItem from="1727424181395" duration="1541000" />
+      <workItem from="1727625361532" duration="4085000" />
+      <workItem from="1727711431502" duration="3920000" />
+      <workItem from="1727749658920" duration="3654000" />
+      <workItem from="1727859692781" duration="3500000" />
+      <workItem from="1727982858191" duration="7867000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
